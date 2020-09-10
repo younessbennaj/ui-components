@@ -2,6 +2,7 @@ const path = require("path");
 
 module.exports = {
     mode: "development",
+    watch: true,
     entry: "./src/index.js",
     output: {
         //need an absolute path
