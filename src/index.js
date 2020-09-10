@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import "./style.scss";
 
 const App = () => {
-    return (<h1>Hello World!</h1>);
+    return (<h1>Hello World!!!</h1>);
 }
 
 const root = document.getElementById("root");
